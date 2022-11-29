@@ -1,2 +1,2 @@
 # iba-web
-innovation-by-alten webbsida
+innovation-by-alten webbaplikation
