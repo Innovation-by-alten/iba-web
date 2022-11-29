@@ -19,5 +19,7 @@ Create a pullrequest, describe what you have done and which task you have done.
 
 ## Way to work
 Choose your issue that you will work with, assign the issue to you. 
-Choose how to do it and have you want it to look like and if you want to change anyone else work, it's open for discussing.
+Choose how to do it and have you want it to look like and if you want to change anyone else work, it's open for discuss.
 #### Remember it's a alten project.
+
+If you need help, hint or just a discuss please reach out in slack or bring it up on the next meeting. 
