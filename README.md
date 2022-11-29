@@ -10,6 +10,6 @@ Before you push your code to main make sure to do a pull from main, so you alway
 ## Clone repository
 
 ## Pullrequest
-Create a pullrequest
+Create a pullrequest, describe what you have done and which task you have done. 
 
 ##### Note! Someone always have to review and approve it before it merge with main.
