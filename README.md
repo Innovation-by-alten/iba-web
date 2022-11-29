@@ -6,3 +6,8 @@ Go to repository on GitHub, click on iba-web, press main, create a branch from m
 
 #### IMPORTANT!
 Before you push your code to main make sure to do a pull from main before so you always have the latest code.
+
+## Clone repository
+
+## Pullrequest
+
