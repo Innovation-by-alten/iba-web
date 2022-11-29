@@ -16,3 +16,8 @@ Before you push your code to main make sure to do a pull from main, so you alway
 Create a pullrequest, describe what you have done and which task you have done. 
 
 ##### Note! Someone always have to review and approve it before it merge with main.
+
+## Way to work
+Choose your issue that you will work with, assign the issue to you. 
+Choose how to do it and have you want it to look like and if you want to change anyone else work, it's open for discussing.
+#### Remember it's a alten project.
