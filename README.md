@@ -1,6 +1,8 @@
 # iba-web
 innovation-by-alten webbapplikation
 
+Download Visual Studio Code and Node.js.
+
 ## Clone repository
 
 ## Create a branch
