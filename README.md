@@ -3,10 +3,25 @@ innovation-by-alten webbapplikation
 
 Download Visual Studio Code and Node.js.
 
-## Clone repository
-Easiest is to press Code and download zip. Extract the map you have downloded and then open the folder in Visual Studio Code. Then open a new terminal and write: *npm ci*. A Node.js should have been added to your folder. If you want to run the project you the write in the terminal: *npm start*.
+## Connect Github to VS Code 
+### Clone Repsitory
+#### In visual studio code:
+Add Extension: GitHub Repositories. 
+
+1. Go to remote Explorer. 
+2. Choose Remote Repositories
+3. Press "Open Remote Repository"
+4. Choose Innovation-by-alten/iba-web.
+
+Now you are connected to GitHub. 
+Down to the left, you se a green "box" with GitHub. 
+
+## To run the code the first time
+Open a new terminal and write: *npm ci*. A Node.js should have been added to your folder. If you want to run the project you the write in the terminal: *npm start*.
 
 ## Create a branch
+Down in the left corner you press "main" you can create a new branch.  
+
 Go to repository on GitHub, click on iba-web, press main, create a branch from main and choose branch name. You have to start the branch with date, your own name and a very short description. For example: 29112022/filippa/start-button
 
 #### IMPORTANT!
